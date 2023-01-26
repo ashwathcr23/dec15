@@ -1,2 +1,2 @@
 # dec15
-first repository
+This is my first repository
